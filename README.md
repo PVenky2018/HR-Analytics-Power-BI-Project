@@ -13,4 +13,5 @@ This project aimed to explore and visualize key human resource metrics related t
 -	Explored job satisfaction trends segmented by role and analyzed satisfaction across departments.
 -	Incorporated slicers for department and gender to enable interactive filtering.
 -	Designed clear visuals highlighting high-risk areas and trends in attrition.
+
 This dashboard empowered HR decision-makers with interactive insights into employee turnover and job satisfaction, enabling data-driven workforce planning and retention strategies.
